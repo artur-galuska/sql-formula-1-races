@@ -5,7 +5,7 @@ It follows a set of 45 tasks, with increasing difficulty, that must be found by 
 
 The project served as a learning experience and a practical example of how analytics are performed in the real world.
 During my work on this project I have learned how to use a new tool - MySQL Workbench - in helping me analyse the datasets.
-It provided me with hands-on experience in working with SQL Queries, Subqueries, Joins, Groups, Filtering, Calculations, CTEs.
+It provided me with hands-on experience in working with SQL Queries, Subqueries, Joins, Grouping, Filtering, Aggregations, CTEs.
 <!--
 ## Table of Contents (Optional)
 
