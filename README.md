@@ -24,7 +24,13 @@ Download and import the datasets, and then use queries from .pdf to provide the 
 
 ## Usage
 
-Instructions go here.
+The datasets used for finding the required information are as follows:
+- constructors.csv
+- drivers.csv
+- pitstops.csv
+- results.csv
+
+The other 5 datasets were used for general practice and weren't required for the completion of tasks, but are included as a reference of data I had to work with.
 
 <!--
 ## Credits
