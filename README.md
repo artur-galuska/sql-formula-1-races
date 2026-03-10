@@ -1,5 +1,6 @@
+<!--
 <p>
-  <img src="https://img.shields.io/badge/SQL-100%25-darkblue?labelColor=2f0b61&style=flat"/>
+  <img src="https://img.shields.io/badge/Microsoft_Excel-100%25-darkblue?labelColor=105d8e&style=flat"/>
 </p>
 
 ## Description
@@ -32,3 +33,4 @@ To see the queries work in practice:<br>
 ## Credits
 
 This project was created as part of my studies of Data Analysis course on [ITOnlineLearning](https://www.itonlinelearning.com/)
+-->
