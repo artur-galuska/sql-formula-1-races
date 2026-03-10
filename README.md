@@ -1,5 +1,5 @@
 <p>
-  <img src="https://img.shields.io/badge/Microsoft_Excel-100%25-darkblue?labelColor=105d8e&style=flat"/>
+  <img src="https://img.shields.io/badge/SQL-100%25-darkblue?labelColor=2f0b61&style=flat"/>
 </p>
 
 ## Description
