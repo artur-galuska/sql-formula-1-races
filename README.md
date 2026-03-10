@@ -1,3 +1,7 @@
+<p>
+  <img src="https://img.shields.io/badge/-SQL-2f0b61?style=flat"/>
+</p>
+
 ## Description
 
 This project is an analysis of Formula 1 races and their results via use of SQL queries.
@@ -9,7 +13,7 @@ It provided me with hands-on experience in working with SQL Queries, Subqueries,
 
 ## Usage
 
-The project is provided in .pdf format, both tasks and queries in separate files, as well as all the datasets.<br>
+The project is provided in .pdf format, both tasks and queries in separate files, as well as all the datasets in a separate folder.<br>
 The datasets used for finding the required information are as follows:
 - constructors.csv
 - drivers.csv
@@ -28,9 +32,3 @@ To see the queries work in practice:<br>
 ## Credits
 
 This project was created as part of my studies of Data Analysis course on [ITOnlineLearning](https://www.itonlinelearning.com/)
-
-## Badges
-
-<p>
-  <img src="https://img.shields.io/badge/-SQL-2f0b61?style=flat"/>
-</p>
